@@ -1,5 +1,4 @@
-# git_it_done-project2 
-## Created by: git_it_done Team
+# git_it_done-project2 Created by: git_it_done Team
 ## The Game of Set
 
 #### How to Set-up:
