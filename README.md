@@ -1,6 +1,6 @@
 # git_it_done-project2 
-Created by: git_it_done Team
 ## The Game of Set
+Created by: Team git_it_done 
 
 #### How to Set-up:
 1. Make sure you have the 'gosu' Ruby Gem installed. If not, do the following (for Linux systems):
